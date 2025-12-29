@@ -1,0 +1,7 @@
+numpy>=1.22.4
+torch>=2.0.0
+pyro-ppl>=1.8.4
+arviz>=0.15.1
+matplotlib>=3.7.1
+scipy>=1.10.1
+pandas>=2.0.0
